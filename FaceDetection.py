@@ -39,5 +39,5 @@ with mp_face_detection.FaceDetection(
       break
 cap.release()
 
-# Learn more AI in Computer Vision by Enrolling in our AI_CV Nano Degree:
-# https://bit.ly/AugmentedAICVPRO
+#OpenCV-Python (v4.5.2.52)
+#MediaPipe (v0.8.4.2)
